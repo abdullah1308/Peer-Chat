@@ -2,7 +2,7 @@ import React, { useContext } from "react";
 import { Typography, IconButton, Stack, Tooltip, Avatar,  } from "@mui/material";
 import {Call, CallEnd} from '@mui/icons-material';
 import { SocketContext } from "../SocketContext";
-import Sound from "react-sound"
+import Sound from '@studysync/react-sound';
 import CallSound from "../sounds/call.mp3"
 
 const styles = {
