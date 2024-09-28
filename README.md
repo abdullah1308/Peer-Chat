@@ -1,6 +1,7 @@
 # Peer-Chat
-A P2P video chat application based on WebRTC built using React and Node using the simple-peer and Socket.io packages. 
-[comment]: # (Live demo of the project can be found [here](https://peer-chat.netlify.app).)
+A P2P video chat application based on WebRTC built using React and Node using the simple-peer and Socket.io packages.
+
+[comment]: # (Live demo of the project can be found here - https://peer-chat.netlify.app)
 
 ## Setup Instructions
 
